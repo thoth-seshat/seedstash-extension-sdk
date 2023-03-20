@@ -1,0 +1,8 @@
+{
+  "name": "@seedstash-extension-sdk/react",
+  "version": "1.0.0",
+  "description": "Tools to integrate seedstash into your wallet extension",
+  "main": "index.js",
+  "author": "Sterling Cobb",
+  "license": "MIT"
+}
